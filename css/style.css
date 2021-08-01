@@ -4,9 +4,9 @@
     font-family: sans-serif;
 }
 @font-face {
-    font-family: "GreatDay";
+    font-family: GreatDay;
     src: url("GreatDay.ttf");
-    font-family: "Satturday";
+    font-family: Satturday;
     src: url("Satturday.ttf");
 }
 body{
