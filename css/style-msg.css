@@ -5,9 +5,9 @@
 }
 @font-face {
     font-family: "GreatDay";
-    src: url("font/GreatDay.ttf");
+    src: url("GreatDay.ttf");
     font-family: "Satturday";
-    src: url("C:/Users/Eloi/Desktop/HBD/font/Satturday.ttf");
+    src: url("Satturday.ttf");
 }
 body{
     background-color: #fff5af;
