@@ -10,7 +10,7 @@
     src: url("C:/Users/Eloi/Desktop/HBD/font/Satturday.ttf");
 }
 body{
-    background-image: url("img/bg.jpg");
+    background-image: url("https://github.com/hLiona/index/blob/808efd77e7622206b8cd66b4312bce62f1ab0713/img/bg.jpg");
 
     display: flex;
     justify-content: center;
