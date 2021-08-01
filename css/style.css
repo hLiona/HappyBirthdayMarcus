@@ -5,12 +5,12 @@
 }
 @font-face {
     font-family: "GreatDay";
-    src: url("C:/Users/Eloi/Desktop/HBD/font/GreatDay.ttf");
+    src: url("GreatDay.ttf");
     font-family: "Satturday";
-    src: url("C:/Users/Eloi/Desktop/HBD/font/Satturday.ttf");
+    src: url("Satturday.ttf");
 }
 body{
-    background-image: url("https://github.com/hLiona/index/blob/808efd77e7622206b8cd66b4312bce62f1ab0713/img/bg.jpg");
+    background-image: url("bg.jpg");
 
     display: flex;
     justify-content: center;
