@@ -10,7 +10,7 @@
     src: url("C:/Users/Eloi/Desktop/HBD/font/Satturday.ttf");
 }
 body{
-    background-image: url("C:/Users/Eloi/Desktop/HBD/img/bg.jpg");
+    background-image: url("img/bg.jpg");
 
     display: flex;
     justify-content: center;
